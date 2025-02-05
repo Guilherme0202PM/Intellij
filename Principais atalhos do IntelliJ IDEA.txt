@@ -1,0 +1,59 @@
+﻿Principais atalhos do IntelliJ IDEA
+
+
+Navegação
+* Ctrl + Shift + N: Abrir um arquivo rapidamente pelo nome.
+* Ctrl + E: Mostrar arquivos recentes.
+* Ctrl + Shift + E: Mostrar arquivos recentemente editados.
+* Ctrl + N: Pesquisar classes pelo nome.
+* Ctrl + Shift + T: Ir para a classe de teste correspondente.
+* Alt + 1: Abrir/Fechar aba de projetos.
+* Alt + Home: Ir para a barra de navegação.
+Edição de Código
+* Ctrl + Alt + L: Reformatar o código.
+* Ctrl + D: Duplicar linha ou seleção.
+* Ctrl + Y: Excluir linha.
+* Alt + Insert: Gerar código automaticamente (getters, setters, construtores, etc.).
+* Ctrl + Shift + ↑ / ↓: Mover linha para cima ou para baixo.
+* Alt + Shift + Setas: Mover linha atual.
+* Ctrl + Shift + Setas: Mover linha atual mantendo contexto.
+* Ctrl + / ou Ctrl + Shift + /: Comentar código.
+Refatoração
+* Shift + F6: Renomear variáveis, classes ou métodos.
+* Ctrl + Alt + M: Extrair método.
+* Ctrl + Alt + V: Extrair variável.
+* Ctrl + Alt + F: Extrair campo.
+* Ctrl + Alt + C: Criar constante.
+* Ctrl + Shift + Alt + T: Métodos de refatoração.
+Depuração
+* F8: Avançar para a próxima linha (Step Over).
+* F7: Entrar em um método (Step Into).
+* Shift + F8: Sair do método (Step Out).
+* Ctrl + F8: Adicionar/remover breakpoint.
+* Ctrl + Shift + F8: Exibir os breakpoints configurados.
+Busca e Substituição
+* Ctrl + F: Buscar dentro do arquivo.
+* Ctrl + R: Substituir dentro do arquivo.
+* Ctrl + Shift + F: Buscar em todo o projeto.
+* Ctrl + Shift + R: Substituir em todo o projeto.
+* Ctrl + Shift + A: Find Action - mostra todas as ações da IDE em uma lista.
+* Shift & Shift: Search everywhere.
+* Ctrl + B: Inspecionar elemento - go to class, method, declaration, etc.
+* Ctrl + G: Ir para linha.
+* Ctrl + H: Mostrar hierarquia da classe.
+* Alt + F7: Find usages - mostra a lista de quem está chamando o método, usando a variável, etc.
+Outras Funcionalidades Úteis
+* Shift (pressionado duas vezes): Pesquisa qualquer coisa dentro da IDE.
+* Ctrl + Space: Autocompletar código.
+* Ctrl + Shift + Enter: Completar declaração automaticamente.
+* Ctrl + Alt + O: Reajustar imports da classe (remove imports não utilizados).
+* Ctrl + P: Mostrar parâmetros do método.
+* Ctrl + Q: Documentação rápida.
+* Ctrl + F12: Mostrar a estrutura do arquivo.
+* Alt + Insert: Criar novo arquivo na aba de projetos.
+* Alt + Shift + Insert: Alterna entre modo de seleção de linha/coluna.
+* Ctrl + Shift + F12: Expandir a tela.
+* Ctrl + J: Exibe todos os templates disponíveis.
+* psvm: Criar método main.
+* sout: System.out.println().
+* Ctrl + Alt + T: Templates de IF, for, while, etc.
